@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.App-container{
+    background-color: rgb(123, 255, 0);
+    width: 800px;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.group-questions{
+    background-color: rgb(255, 238, 0);
+    width: 60%;
+    height: 10vh;
+}
