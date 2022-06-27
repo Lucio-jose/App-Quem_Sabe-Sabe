@@ -42,4 +42,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `Autor`
 
-LinkedIn:  [deployment](www.linkedin.com/in/lúcio-josé-7c2002c7)
+LinkedIn:  [Clica_Aqui](www.linkedin.com/in/lúcio-josé-7c2002c7)
